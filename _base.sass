@@ -1,0 +1,48 @@
+// colors
+$main-text-color: rgb(51, 51, 51)
+
+// main styles
+*, *::before, *::after
+  padding: 0
+  margin: 0
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+
+body
+  //font-family: 'Kanit', sans-serif
+  font-family: 'Raleway', sans-serif
+  background-color: #faf7f6
+
+// component styles
+.link
+  font-weight: 800
+  letter-spacing: 0.2px
+  text-decoration: none
+  color: rgba($main-text-color, 0.3)
+  transition: all 0.12s ease-out
+  &:hover, &:focus
+    color: rgba($main-text-color, 0.7)
+
+.page-logo
+  position: relative
+  z-index: 20
+  font-size: 22px
+  font-weight: 700
+  line-height: 0.9
+  letter-spacing: 4px
+  text-transform: uppercase
+  opacity: 1
+  color: $main-text-color
+
+.navigation
+  display: flex
+  align-items: flex-end
+  &__link
+    font-size: 22px
+    margin-right: 9%
+    letter-spacing: 0.6px
+
+.slide__link
+  display: flex
+  align-items: flex-end
