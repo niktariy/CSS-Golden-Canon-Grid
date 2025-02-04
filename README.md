@@ -6,3 +6,5 @@
 ![Kris Anfalova Design](https://cdn.dribbble.com/users/375995/screenshots/5421899/234.png)
 
 Design by [Kris Anfalova](https://dribbble.com/Kris_anfalova)
+
+[Live version](https://niktariy.github.io/CSS-Golden-Canon-Grid/)
