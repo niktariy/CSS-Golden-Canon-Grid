@@ -21,6 +21,7 @@
 
 ### Превью дизайна
 ![Kris Anfalova Design](https://cdn.dribbble.com/users/375995/screenshots/5421899/234.png)
+
 Дизайн от [Kris Anfalova](https://dribbble.com/Kris_anfalova)
 
 ---
