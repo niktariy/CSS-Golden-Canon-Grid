@@ -1,6 +1,6 @@
 # Golden Canon Grid realization on CSS Grid
 
-![Golden Canon Grid](https://static-2.gumroad.com/res/gumroad/7492717777156/asset_previews/32baf776b4f5804bdfe91b167f7d6183/retina/Cover1.png)
+![Golden Canon Grid](https://cdn.dribbble.com/userupload/22690890/file/original-1b0b41a9e66381bb0744f5ed2213e9d0.gif)
 
 ### Page design
 ![Kris Anfalova Design](https://cdn.dribbble.com/users/375995/screenshots/5421899/234.png)
