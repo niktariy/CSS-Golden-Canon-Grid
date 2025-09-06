@@ -1,10 +1,64 @@
-# Golden Canon Grid realization on CSS Grid
+# CSS Golden Canon Grid
 
-![Golden Canon Grid](https://cdn.dribbble.com/userupload/22690890/file/original-1b0b41a9e66381bb0744f5ed2213e9d0.gif)
+**Реализация сетки "Золотого канона" на CSS.**
 
-### Page design
+Этот репозиторий содержит реализацию **Golden Canon Grid** (сетки, основанной на принципах золотого сечения) с использованием **CSS Grid** и **Sass**.
+
+---
+
+## 📌 О проекте
+
+Проект демонстрирует, как создать адаптивную и гармоничную сетку на основе золотого сечения с использованием современных технологий:
+- **CSS Grid** для создания гибких и адаптивных макетов.
+- **Sass** для упрощения написания и поддержки стилей.
+
+---
+
+## 🎨 Примеры дизайна
+
+### Адаптивный дизайн по сетке золотого сечения
+![Адаптивный дизайн по сетке золотого сечения](https://cdn.dribbble.com/userupload/22690890/file/original-1b0b41a9e66381bb0744f5ed2213e9d0.gif)
+
+### Превью дизайна
 ![Kris Anfalova Design](https://cdn.dribbble.com/users/375995/screenshots/5421899/234.png)
+Дизайн от [Kris Anfalova](https://dribbble.com/Kris_anfalova)
 
-Design by [Kris Anfalova](https://dribbble.com/Kris_anfalova)
+---
 
-[Live version](https://niktariy.github.io/CSS-Golden-Canon-Grid/)
+## 🚀 Как использовать
+
+1. **Просмотреть онлайн**:
+   [Демо Golden Canon Grid](https://niktariy.github.io/CSS-Golden-Canon-Grid/)
+
+2. **Локально**:
+   - Клонируйте репозиторий:
+     ```bash
+     git clone https://github.com/niktariy/CSS-Golden-Canon-Grid.git
+     ```
+   - Откройте файл `index.html` в браузере.
+
+---
+
+## 📖 Можно почитать
+
+- [Золотой канон в веб-дизайне: как использовать пропорции золотого сечения](https://habr.com/ru/articles/479580/)
+
+---
+
+## 🔧 Технологии
+
+- **CSS Grid** — для создания сетки.
+- **Sass** — для написания стилей.
+- **HTML5** — для разметки.
+
+---
+
+## 📜 Лицензия
+
+Этот проект распространяется под лицензией [MIT](LICENSE).
+
+---
+
+## 📬 Контакты
+
+Автор: [Veronika Novikova](https://github.com/niktariy)
